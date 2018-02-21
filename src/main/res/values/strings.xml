@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Szybki Shopping</string>
+    <string name="app_version">0.1-beta</string>
+    <string name="facebook_app_id">578919002444180</string>
+    <string name="fb_login_protocol_scheme">fb578919002444180</string>
+
+</resources>

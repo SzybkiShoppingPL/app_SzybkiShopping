@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777081932759",
+    "firebase_url": "https://szybkishopping.firebaseio.com",
+    "project_id": "szybkishopping",
+    "storage_bucket": "szybkishopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777081932759:android:b609a3e7b674545a",
+        "android_client_info": {
+          "package_name": "pl.bemdev.szybkishopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777081932759-j1ch5lnc891ftgjkn3r4rg6gvqm8fosu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.bemdev.szybkishopping",
+            "certificate_hash": "ee7f27dc49025e4b510cdf19484f74663ae4a612"
+          }
+        },
+        {
+          "client_id": "777081932759-n5vu5dq362jd1fhaglu2rmpelbmk05ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEgAbn5M-Mzh7I5wTWr8qeTT1TmjlUNmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777081932759-n5vu5dq362jd1fhaglu2rmpelbmk05ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
